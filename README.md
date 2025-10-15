@@ -1,12 +1,9 @@
 # Jogo da Velha
 
-|   | 1 | 2 | 3 |
-|---|---|---|---|
-| A |   |   |   |
-| B |   |   |   |
-| C |   |   |   |
+|  1  2  3
+A  x  o  o
+B  o  x  o
+C  o  x  x
 
-**Legenda**
-
-- ❌ Primeiro jogador 
-- ⭕ Segundo jogador
+# X Jogador 1 
+# O Joador 2
